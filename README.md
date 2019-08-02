@@ -1,6 +1,6 @@
 # Flowmaker
 
-Flowmaker is an VSCode extension used to generate a flowchart in SVG format of `javascript` code to demonstrate Code flow scheme from different level of conduct.
+Flowmaker는 다른 레벨의 코드 흐름을 보여주기 위해 SVC 형식의 자바 스크립트 코드로 순서도를 생성하는데 사용되는 VSCode 확장입니다.
 
 [![Flowmaker features](https://i.imgur.com/FIacJUP.gif)](https://youtu.be/ySW2ejs6f84)
 
