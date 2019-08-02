@@ -6,8 +6,8 @@ Flowmaker는 다른 레벨의 코드 흐름을 보여주기 위해 SVC 형식의
 
 [![onBrowser demo](https://i.imgur.com/k77hQLy.png)](https://youtu.be/ySW2ejs6f84)
 
-**Note:**
-For only using the onEditor SVG generation follow the <a href="https://github.com/aryaminus/flowmaker/tree/livepreview" target="_blank">livepreview</a> branch code.
+**주의:**
+참고 : onEditor SVG 생성 만 사용하려면 livepreview  <a href="https://github.com/aryaminus/flowmaker/tree/livepreview" target="_blank">livepreview</a> 지점 코드를 따르십시오.
 
 For showing in both Browser and Editor follow the <a href="https://github.com/aryaminus/flowmaker/tree/onBrowser" target="_blank">onBrowser</a> branch code.
 
